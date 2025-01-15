@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Welcome to PyVengers Django Boilerplate 🌟</h1>
+<h1 align="center">🌟 Welcome to PyVengers Django Boilerplate  🌟</h1>
 
 <p align="center">
   <img width="150px" src="https://img.shields.io/badge/Framework-Django-green?style=for-the-badge" alt="Framework Django">
